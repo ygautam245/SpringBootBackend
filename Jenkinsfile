@@ -27,5 +27,4 @@ bat(script: 'mvn package')
 }
 }
 }
-
-
+}
